@@ -8,7 +8,7 @@ Webcam Proctoring adds an additional layer of monitoring during an assessment.
 - Multiple candidates appearing on camera
 - Candidate moving outside the camera view
 - Suspicious head movements
-- Candidate looking away repeatedly
+- This is typed message 
 
 Relevant snapshots can be reviewed alongside assessment results to provide additional context.
 
