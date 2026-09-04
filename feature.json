@@ -5,8 +5,8 @@
     "Candidate switching",
     "Multiple candidates appearing on camera",
     "Candidate moving outside the camera view",
-    "Suspicious head movements",
-    "This is typed message "
+    "Suspicious head movements"
+  
   ],
   "value": "Relevant snapshots can be reviewed alongside assessment results to provide additional context."
 }
