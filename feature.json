@@ -1,0 +1,11 @@
+{
+  "name": "Webcam Proctoring",
+  "intro": "Webcam Proctoring adds an additional layer of monitoring during an assessment.",
+  "events": [
+    "Candidate switching",
+    "Multiple candidates appearing on camera",
+    "Candidate moving outside the camera view",
+    "Suspicious head movements"
+  ],
+  "value": "Relevant snapshots can be reviewed alongside assessment results to provide additional context."
+}
