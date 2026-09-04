@@ -6,7 +6,7 @@
     "Multiple candidates appearing on camera",
     "Candidate moving outside the camera view",
     "Suspicious head movements",
-    "Candidate looking away repeatedly"
+    "This is typed message "
   ],
   "value": "Relevant snapshots can be reviewed alongside assessment results to provide additional context."
 }
